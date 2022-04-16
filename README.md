@@ -1,2 +1,2 @@
-# GTA_Project
+# GTA Project
 Graph Matching in Computer Vision 
